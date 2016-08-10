@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">interview_android_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_item_loaded">All item loaded</string>
+</resources>
